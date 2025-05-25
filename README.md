@@ -6,8 +6,8 @@ This repo allows for testing of Amazon Nova Act in Theta's computer environments
 
 ## 1 · Prerequisites
 
-• Python ≥ 3.9  
-• Valid **Theta** and **Nova Act** API keys
+- Python ≥ 3.9  
+- Valid **Theta** and **Nova Act** API keys
 
 Create a `.env` file in the project root:
 
@@ -70,8 +70,8 @@ python example.py
    ```
 
 While running you will see:
-• A remote VNC link you can open in your browser to watch the agent.
-• A log file path (HTML) capturing each Nova Act step.
+- A remote VNC link you can open in your browser to watch the agent.
+- A log file path (HTML) capturing each Nova Act step.
 
 Use `example.py` as a starting point for your own experiments. This sample offers one basic example ("flower_shop") and two CUB tasks ("epa" + "interior_design").
 
